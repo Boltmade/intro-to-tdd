@@ -42,10 +42,12 @@
 ---
 
 ![](browser-testing.gif)
+## I could do this...
 
 ---
 
 ![](testing.gif)
+## Or I could do this!
 
 ---
 
@@ -141,3 +143,19 @@ end
 ---
 
 # Your Turn!
+
+---
+
+![](gist.gif)
+# Share your solution!
+
+---
+
+## Further reading
+
+- [Test Driven Development on Wikipedia](http://en.wikipedia.org/wiki/Test-driven_development)
+- [The Three Rules of TDD by Uncle Bob](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd)
+- [Test Driven Development from The Art of Agile Development](http://www.jamesshore.com/Agile-Book/test_driven_development.html)
+- [Extreme Programming](http://www.amazon.ca/Extreme-Programming-Explained-Embrace-Edition/dp/0321278658)
+- [Test Driven Development By Example](http://www.amazon.ca/Test-Driven-Development-By-Example/dp/0321146530)
+- [String Calculator Solution by ericroberts](https://gist.github.com/ericroberts/dd57cd80bec75ded3f02)
